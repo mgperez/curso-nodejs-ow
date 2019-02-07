@@ -1,0 +1,22 @@
+{
+  "name": "curso-nodejs-ow",
+  "version": "2.0.0",
+  "description": "App en Node que muestra Hola Mundo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgperez/curso-nodejs-ow.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "mgperez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgperez/curso-nodejs-ow/issues"
+  },
+  "homepage": "https://github.com/mgperez/curso-nodejs-ow#readme"
+}
